@@ -40,7 +40,7 @@ TFT_eSPI tft = TFT_eSPI();
 #define Button_B      26
 #define Button_C      32
 
-String callmessage = "KD0MLN fox. If found call for info."; // your callsign goes here
+String callmessage = "KX0XXX fox. If found call for info."; // your callsign goes here
 String morse = ""; // leave this blank for now; it will be filled in during setup
 float frequency = 146.550; // 146.565 is the normal TX frequency for foxes
 
